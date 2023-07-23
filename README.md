@@ -6,7 +6,7 @@ This plugin adds the commands `/color1 (byte)red (byte)green (byte)blue` and `/c
 ## Install the plugin
 1. Download [ColorSystem](#) from Steam (or use the [Steam Workshop Downloader](https://james121op.me/toolbox/steamworkshopdownloader/) by James).
 2. Copy the plugin from `Steam\steamapps\workshop\content\696370\XXX` (or where you downloaded it) to `BROKE PROTOCOL\Plugins`
-3. Download the [latest version](#) of the plugin.
+3. Download the [latest version](https://github.com/TheUnishark/ExampleColorPlugin/releases/latest) of the plugin.
 4. Put the file in the `BROKE PROTOCOL\Plugins` directory.
 5. Add the permission `ecp.color` to the desired group(s).
 6. Start your server or Offline Mode.
