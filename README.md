@@ -14,5 +14,6 @@ This plugin adds the commands `/color1 (byte)red (byte)green (byte)blue` and `/c
 
 ## Build the plugin
 1. Set the environment variable `BPDIR` to your Broke Protocol directory (or change every `$(BPDIR)` instances to your BP directory path in the csproj file).
-2. Build the project using any IDE.
-3. The plugin should be automatically copied to your BP Plugins directory.
+2. Make sure to have `!ColorSystem.dll` in your BP plugins folder
+3. Build the project using any IDE.
+4. The plugin should be automatically copied to your BP Plugins directory.
