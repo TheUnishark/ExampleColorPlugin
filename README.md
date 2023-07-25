@@ -4,7 +4,7 @@ Example Color Plugin is an example plugin for the Broke Protocol plugin **[Color
 This plugin adds the commands `/color1 (byte)red (byte)green (byte)blue` and `/color2 (byte)red (byte)green (byte)blue` to change the player's vehicle colors, and the permission `ecp.color` to execute the commands.
 
 ## Install the plugin
-1. Download [ColorSystem](https://steamcommunity.com/sharedfiles/filedetails/?id=3009163082) from Steam (or use the [Steam Workshop Downloader](https://james121op.me/toolbox/steamworkshopdownloader/) by James).
+1. Download [ColorSystem](https://steamcommunity.com/sharedfiles/filedetails/?id=3009163082) from Steam (or use the [Steam Workshop Downloader](https://james121op.me/toolbox/steamworkshopdownloader/) by [@james121op](https://github.com/james121op)).
 2. Copy the plugin from `Steam\steamapps\workshop\content\696370\3009163082` (or where you downloaded it) to `BROKE PROTOCOL\Plugins`
 3. Download the [latest version](https://github.com/TheUnishark/ExampleColorPlugin/releases/latest) of the plugin.
 4. Put the file in the `BROKE PROTOCOL\Plugins` directory.
